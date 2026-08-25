@@ -1,0 +1,6 @@
+corridor_id,section,start_station,end_station,distance_km,line,asset_types,department,asset_criticality,traffic_baseline
+COR-AB,A-B,A,B,42,UP/DN,Track|Signal|OHE,Engineering|S&T|TRD,9,0.72
+COR-BC,B-C,B,C,35,UP/DN,Track|Signal|OHE,Engineering|S&T|TRD,8,0.58
+COR-CD,C-D,C,D,48,UP/DN,Track|Signal|OHE,Engineering|S&T|TRD,7,0.41
+COR-DE,D-E,D,E,31,UP/DN,Track|Signal|OHE,Engineering|S&T|TRD,6,0.34
+COR-EF,E-F,E,F,27,UP/DN,Track|Signal|OHE,Engineering|S&T|TRD,5,0.28

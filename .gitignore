@@ -1,0 +1,9 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+output/optimized_block_plan.csv
+output/plan_workflow.json
+*.log

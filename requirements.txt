@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+streamlit>=1.35
+fastapi>=0.110
+uvicorn>=0.29
+# Optional production optimizer; the prototype has a deterministic fallback.
+ortools>=9.8

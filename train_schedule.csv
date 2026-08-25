@@ -1,0 +1,6 @@
+train_id,train_type,route,start_station,end_station,arrival_time,departure_time,priority,traffic_density
+T101,Express,A-B-C-D,A,D,2026-08-25 12:00,2026-08-25 08:00,HIGH,0.85
+T102,Passenger,A-B-C-D,A,D,2026-08-25 13:00,2026-08-25 09:00,MEDIUM,0.65
+G501,Goods,A-B-C-D,A,D,2026-08-25 14:00,2026-08-25 10:30,LOW,0.45
+T103,Express,B-C-D,B,D,2026-08-26 12:00,2026-08-26 08:00,HIGH,0.80
+G502,Goods,C-D,C,D,2026-08-27 06:00,2026-08-27 02:00,LOW,0.25

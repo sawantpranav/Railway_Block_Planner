@@ -1,0 +1,4 @@
+plan_type,horizon,description
+Daily,1 day,Operational recommendations for the next available window
+Weekly,7 days,Coordinated blocks for the next seven days
+Monthly,30 days,Forward reservations for tasks approaching deadline

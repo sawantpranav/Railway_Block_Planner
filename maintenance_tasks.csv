@@ -1,0 +1,8 @@
+task_id,source_system,department,asset_id,asset_type,location,start_station,end_station,defect_type,severity,safety_criticality,overdue_days,estimated_duration,required_block_type,deadline,maintenance_frequency,failure_history,asset_criticality
+T001,TMS,Engineering,TRK-AB-745,Track,A-B,A,B,Rail fracture,8,9,12,2.0,Traffic block,2026-08-30,Monthly,3,9
+T002,SMMS,S&T,SIG-AB-021,Signal,A-B,A,B,Signal inspection,7,8,5,1.0,Traffic block,2026-09-02,Monthly,2,8
+T003,TDMS,TRD,OHE-AB-118,OHE,A-B,A,B,OHE maintenance,8,8,7,2.0,Power block,2026-09-05,Quarterly,4,9
+T004,TMS,Engineering,TRK-BC-332,Track,B-C,B,C,Tamping,5,6,3,2.0,Traffic block,2026-09-12,Monthly,1,7
+T005,SMMS,S&T,SIG-BC-044,Signal,B-C,B,C,Signal testing,6,7,0,1.0,Traffic block,2026-09-15,Monthly,2,7
+T006,TDMS,TRD,OHE-CD-091,OHE,C-D,C,D,Insulator replacement,4,5,10,2.0,Power block,2026-09-18,Quarterly,1,6
+T007,TMS,Engineering,TRK-CD-509,Track,C-D,C,D,Ultrasonic inspection,3,5,0,1.5,Traffic block,2026-09-25,Monthly,0,6

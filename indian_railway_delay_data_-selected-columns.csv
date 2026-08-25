@@ -1,0 +1,101 @@
+Train_id,Train_name,Train_no,Source,Destitnation,Date,Distance(Km),Sc_arr__time,Act_arr_time,Dealy_min
+E1,Begampura Express,12238,Varanasi,Jammu,01-01-2016 00:00,1260,06:30:00,07:45:00,01:15:00
+E2,Begampura Express,12238,Varanasi,Jammu,01-01-2017 00:00,1260,06:30:00,06:50:00,00:20:00
+E3,Begampura Express,12238,Varanasi,Jammu,01-01-2018 00:00,1260,06:30:00,08:00:00,01:30:00
+E4,Begampura Express,12238,Varanasi,Jammu,01-01-2019 00:00,1260,06:30:00,06:40:00,00:10:00
+E5,Begampura Express,12238,Varanasi,Jammu,01-01-2020 00:00,1260,06:30:00,07:00:00,00:30:00
+E6,Begampura Express,12238,Varanasi,Jammu,07-01-2021 00:00,1260,06:30:00,06:35:00,00:05:00
+E7,Begampura Express,12238,Varanasi,Jammu,01-01-2022 00:00,1260,06:30:00,07:10:00,00:40:00
+E8,Begampura Express,12238,Varanasi,Jammu,01-01-2023 00:00,1260,06:30:00,08:00:00,01:30:00
+E9,Begampura Express,12238,Varanasi,Jammu,01-01-2024 00:00,1260,06:30:00,06:45:00,00:15:00
+E10,Begampura Express,12238,Varanasi,Jammu,01-01-2025 00:00,1260,06:30:00,07:20:00,00:50:00
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,02-01-2016 00:00,1754,10:00:00,11:20:00,01:20:00
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,07-01-2017 00:00,1754,10:00:00,10:45:00,00:45:00
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,06-01-2018 00:00,1754,10:00:00,10:30:00,00:30:00
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,05-01-2019 00:00,1754,10:00:00,10:10:00,00:10:00
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,04-01-2020 00:00,1754,10:00:00,10:20:00,00:20:00
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,02-01-2021 00:00,1754,10:00:00,10:10:00,00:10:00
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,01-01-2022 00:00,1754,10:00:00,12:00:00,02:00:00
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,07-01-2023 00:00,1754,10:00:00,11:00:00,01:00:00
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,06-01-2024 00:00,1754,10:00:00,10:35:00,00:35:00
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,04-01-2025 00:00,1754,10:00:00,11:15:00,01:15:00
+R1,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2016 00:00,1450,10:00:00,10:20:00,00:20:00
+R2,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2017 00:00,1450,10:00:00,10:40:00,00:40:00
+R3,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2018 00:00,1450,10:00:00,11:10:00,01:10:00
+R4,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2019 00:00,1450,10:00:00,10:05:00,00:05:00
+R5,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2020 00:00,1450,10:00:00,10:30:00,00:30:00
+R6,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2021 00:00,1450,10:00:00,10:50:00,00:50:00
+R7,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2022 00:00,1450,10:00:00,11:15:00,01:15:00
+R8,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2023 00:00,1450,10:00:00,10:10:00,00:10:00
+R9,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2024 00:00,1450,10:00:00,11:00:00,01:00:00
+R10,Rajdhani Express ,12301,Howrah, New Delhi,01-01-2025 00:00,1450,10:00:00,10:25:00,00:25:00
+ C1,Chennai Express,12604,Mumbai,Chennai ,01-01-2016 00:00,1284,09:00:00,09:20:00,00:20:00
+ C2,Chennai Express,12604,Mumbai,Chennai ,01-01-2017 00:00,1284,09:00:00,09:45:00,00:45:00
+ C3,Chennai Express,12604,Mumbai,Chennai ,01-01-2018 00:00,1284,09:00:00,09:10:00,00:10:00
+ C4,Chennai Express,12604,Mumbai,Chennai ,01-01-2019 00:00,1284,09:00:00,09:25:00,00:25:00
+ C5,Chennai Express,12604,Mumbai,Chennai ,01-01-2020 00:00,1284,09:00:00,09:50:00,00:50:00
+ C6,Chennai Express,12604,Mumbai,Chennai ,01-01-2021 00:00,1284,09:00:00,09:30:00,00:30:00
+ C7,Chennai Express,12604,Mumbai,Chennai ,01-01-2022 00:00,1284,09:00:00,10:15:00,01:15:00
+ C8,Chennai Express,12604,Mumbai,Chennai ,01-01-2023 00:00,1284,09:00:00,10:15:00,01:15:00
+ C9,Chennai Express,12604,Mumbai,Chennai ,01-01-2024 00:00,1284,09:00:00,09:05:00,00:05:00
+ C10,Chennai Express,12604,Mumbai,Chennai ,01-01-2025 00:00,1284,09:00:00,09:40:00,00:40:00
+G1,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2016 00:00,1318,08:00:00,08:20:00,00:20:00
+G2,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2017 00:00,1318,08:00:00,09:00:00,01:00:00
+G3,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2018 00:00,1318,08:00:00,08:05:00,00:05:00
+G4,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2019 00:00,1318,08:00:00,08:10:00,00:10:00
+G5,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2020 00:00,1318,08:00:00,08:20:00,00:20:00
+G6,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2021 00:00,1318,08:00:00,08:23:00,00:23:00
+G7,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2022 00:00,1318,08:00:00,08:11:00,00:11:00
+G8,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2023 00:00,1318,08:00:00,08:00:00,00:00:00
+G9,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2024 00:00,1318,08:00:00,09:40:00,01:40:00
+G10,Garib Rath Express,12377, Kolkata, New Delhi,01-01-2025 00:00,1318,08:00:00,08:25:00,00:25:00
+S1,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2016 00:00,707,06:00:00,06:10:00,00:10:00
+S2,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2017 00:00,707,06:00:00,07:10:00,01:10:00
+S3,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2018 00:00,707,06:00:00,08:10:00,02:10:00
+S4,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2019 00:00,707,06:00:00,06:25:00,00:25:00
+S5,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2020 00:00,707,06:00:00,06:05:00,00:05:00
+S6,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2021 00:00,707,06:00:00,06:45:00,00:45:00
+S7,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2022 00:00,707,06:00:00,06:15:00,00:15:00
+S8,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2023 00:00,707,06:00:00,07:00:00,01:00:00
+S9,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2024 00:00,707,06:00:00,06:20:00,00:20:00
+S10,Shatabdi Express,12002, New Delhi,RANI KAMLAPATI ,01-01-2025 00:00,707,06:00:00,06:09:00,00:09:00
+L1,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2016 00:00,491,10:00:00,10:01:00,00:01:00
+L2,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2017 00:00,491,10:00:00,10:14:00,00:14:00
+L3,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2018 00:00,491,10:00:00,10:45:00,00:45:00
+L4,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2019 00:00,491,10:00:00,11:10:00,01:10:00
+L5,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2020 00:00,491,10:00:00,10:05:00,00:05:00
+L6,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2021 00:00,491,10:00:00,10:23:00,00:23:00
+L7,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2022 00:00,491,10:00:00,10:14:00,00:14:00
+L8,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2023 00:00,491,10:00:00,10:29:00,00:29:00
+L9,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2024 00:00,491,10:00:00,10:20:00,00:20:00
+L10,Lucknow Mail,12229,Lucknow, New Delhi,01-01-2025 00:00,491,10:00:00,10:34:00,00:34:00
+K1,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2016 00:00,742,10:00:00,10:00:00,00:00:00
+K2,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2017 00:00,742,17:20:00,17:40:00,00:20:00
+K3,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2018 00:00,742,17:20:00,18:00:00,00:40:00
+K4,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2019 00:00,742,17:20:00,17:23:00,00:03:00
+K5,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2020 00:00,742,17:20:00,17:25:00,00:05:00
+K6,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2021 00:00,742,17:20:00,18:15:00,00:55:00
+K7,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2022 00:00,742,17:20:00,18:05:00,00:45:00
+K8,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2023 00:00,742,17:20:00,18:25:00,01:05:00
+K9,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2024 00:00,742,01-01-1900 17:20,17:20:00,00:00:00
+K10,Kanyakumari Express,12633,Chennai Egmore,Kanyakumari,01-01-2025 00:00,742,01-01-1900 17:20,17:59:00,00:39:00
+Y1,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2016 00:00,1915,04:30:00,05:00:00,00:30:00
+Y2,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2017 00:00,1915,04:30:00,04:39:00,00:09:00
+Y3,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2018 00:00,1915,04:30:00,04:44:00,00:14:00
+Y4,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2019 00:00,1915,04:30:00,04:50:00,20-01-1900 00:20
+Y5,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2020 00:00,1915,04:30:00,04:31:00,00:01:00
+Y6,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2021 00:00,1915,04:30:00,04:30:00,00:00:00
+Y7,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2022 00:00,1915,04:30:00,04:50:00,00:20:00
+Y8,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2023 00:00,1915,04:30:00,08:34:00,04:04:00
+Y9,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2024 00:00,1915,04:30:00,07:38:00,03:08:00
+Y10,Yesvantpur–Howrah Express,22832,Yesvantpur Jn,Howrah,01-01-2025 00:00,1915,04:30:00,05:30:00,01:00:00
+D1,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2016 00:00,4198,19:25:00,19:30:00,00:05:00
+D2,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2017 00:00,4198,19:25:00,20:00:00,00:35:00
+D3,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2018 00:00,4198,19:25:00,20:23:00,01:03:00
+D4,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2019 00:00,4198,19:25:00,19:40:00,00:15:00
+D5,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2020 00:00,4198,19:25:00,19:46:00,00:22:00
+D6,Vivek Express,15906,Dibrugarh,Kanyakumari,02-01-2021 00:00,4198,01-01-1900 19:25,19:25:00,00:00:00
+D7,Vivek Express,15906,Dibrugarh,Kanyakumari,03-01-2022 00:00,4198,01-01-1900 19:25,19:26:00,00:01:00
+D8,Vivek Express,15906,Dibrugarh,Kanyakumari,04-01-2023 00:00,4198,01-01-1900 19:25,19:34:00,00:09:00
+D9,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2024 00:00,4198,01-01-1900 19:25,19:47:00,00:23:00
+D10,Vivek Express,15906,Dibrugarh,Kanyakumari,01-01-2025 00:00,4198,01-01-1900 19:25,19:56:00,00:31:00

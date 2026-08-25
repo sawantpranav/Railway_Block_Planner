@@ -1,0 +1,16 @@
+department,section,available_team_hours,available_teams,required_skills
+Engineering,A-B,8,2,Track
+S&T,A-B,6,1,Signal
+TRD,A-B,8,1,OHE
+Engineering,B-C,8,2,Track
+S&T,B-C,6,1,Signal
+TRD,B-C,6,1,OHE
+Engineering,C-D,8,2,Track
+S&T,C-D,6,1,Signal
+TRD,C-D,6,1,OHE
+Engineering,D-E,8,2,Track
+S&T,D-E,6,1,Signal
+TRD,D-E,6,1,OHE
+Engineering,E-F,8,2,Track
+S&T,E-F,6,1,Signal
+TRD,E-F,6,1,OHE

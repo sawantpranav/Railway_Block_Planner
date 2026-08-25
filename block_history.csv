@@ -1,0 +1,11 @@
+history_id,block_id,section,date,start_time,end_time,requested_departments,granted_departments,traffic_level,planned_duration,actual_duration,train_delay_minutes,activities_combined
+BH001,HB001,A-B,2026-01-05,01:00,04:00,Engineering,S&T|TRD,LOW,3.0,2.5,4,3
+BH002,HB002,B-C,2026-02-04,15:00,18:00,Engineering,HIGH,3.0,2.8,9,1
+BH003,HB003,C-D,2026-02-20,02:00,05:00,TRD,TRD|S&T,LOW,3.0,2.4,5,2
+BH004,HB004,D-E,2026-03-12,10:00,12:00,S&T,S&T,HIGH,2.0,2.0,13,1
+BH005,HB005,E-F,2026-03-25,01:00,04:00,Engineering,Engineering|TRD,LOW,3.0,2.5,2,2
+BH006,HB006,A-B,2026-04-04,02:00,05:00,Engineering|S&T|TRD,Engineering|S&T|TRD,LOW,3.0,2.5,3,3
+BH007,HB007,B-C,2026-04-14,14:00,16:00,S&T,S&T,HIGH,2.0,1.8,8,1
+BH008,HB008,C-D,2026-05-02,01:00,04:00,Engineering|S&T,Engineering|S&T,LOW,3.0,2.2,2,2
+BH009,HB009,D-E,2026-05-11,03:00,06:00,TRD,TRD,LOW,3.0,2.1,1,1
+BH010,HB010,A-B,2026-06-14,02:00,05:00,Engineering|TRD,Engineering|TRD,LOW,3.0,2.6,3,2
