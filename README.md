@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Automatic Block Planning System
 ## Indian Railways Maintenance Optimization
 
@@ -490,4 +491,4 @@ This system is developed for Indian Railways as part of the NDRF (National Digit
 
 **Version**: 1.0.0  
 **Last Updated**: 2024-08-23  
-**Status**: Production Ready
+**Status**: SIH Prototype Ready
