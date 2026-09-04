@@ -1,0 +1,85 @@
+Existing Railway Systems
+
+TMS
+
+SMMS
+
+TDMS
+
+BDMS / COA
+
+Train Schedule
+
+Goods Train Forecast
+
+CSV / Data Adapter
+
+Data Cleaning and Validation
+
+Unified Planning Dataset
+
+AI Priority Engine
+
+Risk Prediction
+
+Urgency Score
+
+Priority Class
+
+Critical Task Detection
+
+Recommendation Engine
+
+Check Compatible Tasks
+
+Check Available Block Windows
+
+Check Train Traffic Impact
+
+Coordinate Engineering, S&T and TRD
+
+Generate Recommended Blocks
+
+Planning Horizon
+
+Daily Plan
+
+Weekly Plan
+
+Monthly Plan
+
+Planning Service
+
+Scenario / What-if Analysis
+
+Normal Traffic
+
+High Traffic
+
+Low Traffic
+
+Approval Workflow
+
+Draft
+
+Submitted
+
+Approved
+
+Reports and KPIs
+
+Utilization
+
+Train Delay
+
+Downtime Reduction
+
+Critical Task Coverage
+
+Streamlit Dashboard
+
+FastAPI
+
+Operator Decision Support
+
+External API Clients
